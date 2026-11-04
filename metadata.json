@@ -1,0 +1,8 @@
+{
+  "name": "Remix Datacenter 3D Digital Twin \u0026 Sensor Monitoring System",
+  "description": "Sistem monitoring fisik ruang server real-time 3D Three.js dengan spatial awareness, early warning system, sensor suhu/kelembaban/asap, analitik time-series, dan webhook alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
